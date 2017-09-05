@@ -1,1 +1,2 @@
-# ping-pong tournament website
+# ping-pong-Tournament
+hobbyist project for school

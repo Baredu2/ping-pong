@@ -1,0 +1,2 @@
+<li><a class="load principles" href="" onclick='changetitle("Zasady - Tenis stołowy ZSE");'>Zasady</a></li>
+<li><a class="load findoponent" href="" onclick='changetitle("Moi przeciwnika - Tenis stołowy ZSE");'>Moi przeciwnicy</a></li>

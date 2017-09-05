@@ -1,0 +1,47 @@
+Skip to content
+Personal Open source Business Explore
+Sign upSign inPricingBlogSupport
+This repository
+Search
+ Watch 57  Star 1,138  Fork 193 nckprsn/scrollme
+ Code  Issues 24  Pull requests 2  Projects 0  Pulse  Graphs
+Branch: master Find file Copy pathscrollme/scrollme.jquery.json
+386892d  on 30 Jun 2014
+@nckprsn nckprsn Update scrollme.jquery.json
+1 contributor
+RawBlameHistory     
+33 lines (32 sloc)  698 Bytes
+{
+  "name": "scrollme",
+  "title": "ScrollMe",
+  "description": "A jQuery plugin for adding simple scrolling effects to web pages.",
+  "keywords":
+  [
+    "animation",
+    "scrolling"
+  ],
+  "version": "1.1.0",
+  "author":
+  {
+    "name": "Nick Pearson",
+    "url": "http://nckprsn.com"
+  },
+  "licenses":
+  [
+    {
+      "type": "GPLv3",
+      "url": "http://www.gnu.org/licenses/gpl-3.0.html"
+    }
+  ],
+  "bugs": "https://github.com/jquery/jquery-color/issues",
+  "homepage": "http://scrollme.nckprsn.com/",
+  "demo": "http://scrollme.nckprsn.com/",
+  "docs": "http://scrollme.nckprsn.com/",
+  "download": "https://github.com/nckprsn/scrollme",
+  "dependencies":
+  {
+    "jquery": ">=1.8"
+  }
+}
+Contact GitHub API Training Shop Blog About
+© 2016 GitHub, Inc. Terms Privacy Security Status Help

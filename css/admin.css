@@ -1,0 +1,434 @@
+#menu-admin
+{
+	width: calc(20% - 1px);
+	width: -webkit-calc(20% - 1px);
+	width: -moz-calc(20% - 1px);
+	width: -khtml-calc(20% - 1px);
+    min-height: 300px;
+	float: left;
+	border-right: 1px solid #888888;
+}
+
+#admin-options
+{
+	width: 80%;
+    min-height: 300px;
+	float: left;
+}
+
+#list-menu-admin
+{
+    list-style-type: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+ul#list-menu-admin
+{
+    line-height: 30px;
+}
+
+#list-menu-admin li a
+{
+    color: #050607;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: all 300ms;
+    line-height: 25px;
+    padding: 10px 0;
+}
+
+#list-menu-admin li a:hover
+{
+    color: #2ab3d2;
+    transition: all 300ms;
+}
+
+#adduser-table
+{
+    margin: 0 auto;
+    width: 900px;
+    padding-bottom: 50px;
+}
+
+#adduser-table tr th
+{
+    width: 33.333333%;
+}
+
+.label
+{
+    text-align: right;
+}
+
+.label label:after
+{
+    content: "  ";
+}
+
+#addpost-table
+{
+    margin: 0 auto;
+    width: 95%;
+    padding-bottom: 50px;
+}
+
+#table-userlist
+{
+    /*background-color: #e5e6e7;*/
+    width: 100%;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+#changepwssword-table
+{
+    margin: 0 auto;
+    width: 300px;
+    padding-bottom: 50px;
+}
+
+.tr-userlist
+{
+    height: 35px;
+    vertical-align: middle;
+}
+
+.tr-userlist-1
+{
+    height: 35px;
+    vertical-align: middle;
+    background-color: #f8f9fa;
+}
+
+.tr-userlist-1:hover,
+.tr-userlist-2:hover
+{
+   background-color: rgba(129,184,197,0.6);
+}
+
+.tr-userlist-2
+{
+    height: 35px;
+    vertical-align: middle;
+    background-color: #e5e6e7;
+}
+
+.tr-userlist-admin
+{
+    height: 35px;
+    vertical-align: middle;
+    background-color: #b4d288;
+}
+
+.tr-userlist-admin:hover
+{
+    background-color: #9bb575;
+}
+
+.tr-userlist-cannotplay
+{
+    height: 35px;
+    vertical-align: middle;
+    background-color: #d28888;
+}
+
+.tr-userlist-cannotplay:hover
+{
+    background-color: #b57575;
+}
+
+.tr-gold
+{
+    height: 35px;
+    vertical-align: middle;
+    background-color: #ffd700;
+}
+
+.tr-gold:hover
+{
+    background-color: #ddb500;
+}
+
+.tr-silver
+{
+    height: 35px;
+    vertical-align: middle;
+    background-color: #c0c0c0;
+}
+
+.tr-silver:hover
+{
+    background-color: #a0a0a0;
+}
+
+.tr-brown
+{
+    height: 35px;
+    vertical-align: middle;
+    background-color: #7a5230;
+}
+
+.tr-brown:hover
+{
+    background-color: #694120;
+}
+
+.tr-green
+{
+    height: 35px;
+    vertical-align: middle;
+    background-color: #b4d288;
+}
+
+.tr-green:hover
+{
+    background-color: #9bb575;
+}
+
+
+#tr-userlist-title
+{
+    height: 35px;
+    vertical-align: middle;
+    font-weight: 700;
+    background-color: #d5d6d7;
+}
+
+.tr-challenge
+{
+    font-size: 10px;
+    cursor: pointer;
+    color: #050607;
+}
+
+.tr-challenge:hover
+{
+    color: #ff0000;
+}
+
+tr-userlist:hover
+{
+    /*background-color: #d5d6d7;*/
+}
+
+.th-username
+{
+    /*background-color: #563241;*/
+}
+
+.th-name-userlist
+{
+    /*background-color: #2bcd63;*/
+}
+
+.th-name-userlist font
+{
+    color: #050607;
+    transition: all 300ms;
+}
+
+.th-name-userlist font:hover
+{
+    color: #2ab3d2;
+    transition: all 300ms;
+}
+
+
+.th-surname
+{
+    /*background-color: green;*/
+}
+
+.th-email
+{
+    /*background-color: #bcdcaf;*/
+}
+
+.th-email > a,
+.th-email > a:visited
+{
+    color: #050607;
+    transition: all 300ms;
+}
+
+.th-email > a:hover
+{
+    color: #2ab3d2;
+    transition: all 300ms;
+}
+
+.th-telephon
+{
+    /*background-color: #985655;*/
+}
+
+.th-pesel
+{
+    /*background-color: #d5b68c;*/
+}
+
+.th-icons
+{
+    /*background-color: lightblue;*/
+}
+
+.icon-pencil
+{
+    cursor: pointer;
+    transition: all 200ms;
+    color: #050607;
+}
+
+.icon-pencil:hover
+{
+    color: #d9a21c; /*yellow*/ /*ffe400*/
+    transition: all 200ms;
+}
+.icon-cancel
+{
+    cursor: pointer;
+    transition: all 200ms;
+    color: #050607;
+}
+
+.icon-cancel:hover
+{
+    color: #ff1800; /*red*/
+    transition: all 200ms;
+}
+
+.icon-key
+{
+    cursor: pointer;
+    transition: all 200ms;
+    color: #050607;
+}
+
+.icon-key:hover
+{
+    color: #d9a21c; /*yellow*/
+    transition: all 200ms;
+}
+
+.icon-lock
+{
+    cursor: pointer;
+    transition: all 200ms;
+    color: #050607;
+}
+
+.icon-lock:hover
+{
+    color: #ff1800;
+    transition: all 200ms;
+}
+
+.icon-lock-open-alt
+{
+    cursor: pointer;
+    transition: all 200ms;
+    color: #050607;
+}
+
+.icon-lock-open-alt:hover
+{
+    color: green;
+    transition: all 200ms;
+}
+
+.icon-paper-plane-empty
+{
+    display: block;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.icon-mail
+{
+    font-size: 18px;
+}
+
+#backgrounddimming
+{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+    position:fixed;
+    visibility: hidden;
+    opacity: 1;
+    transition: all 300ms;
+}
+
+#changepwdadmin,
+#resetdatabase1
+{
+    width: 400px;
+    height: auto;
+    margin: 0 auto;
+    position: relative;
+    background-color: #f5f6f7;
+    border: solid 2px black;
+    visibility: hidden;
+    z-index: 101;
+    top: 300px;
+    opacity: 1;
+    transition: all 300ms;
+}
+
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    min-width: 250px;
+    width: auto;
+    border: solid 1px #2ab3d2;
+    background-color: #f5f6f7;
+    color: #2ab3d2;
+    text-align: center;
+    padding: 5px 0px;
+    
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+    margin-top: -60px;
+    margin-left: -100px;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+.error {
+    color: #ff0000;
+}
+
+#backblack {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: rgba(0,0,0,.3);
+    z-index: 99999;
+    display: block;
+}
+
+#containerback {
+    width: 400px;
+    height: 500px;
+    margin: 50px auto 0 auto;
+    background-color: #f5f6f7;
+    border: solid 3px #888888;
+    display: block;
+}
+
+.input-approval
+{
+    width: 41% !important;
+    float: left !important;
+}

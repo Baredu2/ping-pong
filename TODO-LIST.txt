@@ -1,0 +1,10 @@
+
+- w cron.php dodać logi błędów, ogólnie logi można dodać do strony
+
+- bezpieczna sesja?
+
+- zapomniałem hasła funkcja
+
+- pozwolenie na zmiane hasła użytkownikom
+
+- 
