@@ -1,9 +1,9 @@
 <?php
 
-$db_host		= 'hasanciftci.home.pl';
-$db_user		= '06687094_tenis';
-$db_password	= 'zaq1@WSX';
-$db_database	= '06687094_tenis';
+$db_host	= '';
+$db_user	= '';
+$db_password	= '';
+$db_database	= '';
 
 $db_error_msg	= 'Nie udało połączyć sie z bazą danych';
 
